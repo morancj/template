@@ -1,3 +1,3 @@
-# Linaro-ITS Template
+# morancj Template
 
-Settings for Git and editors popular with [Linaro-ITS](https://github.com/linaro-its/).
+Settings for Git and editors popular with [morancj](https://github.com/morancj/).
